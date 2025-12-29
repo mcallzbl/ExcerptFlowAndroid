@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter
+package com.mcallzbl.excerptflowandroid
 
 import org.junit.Test
 

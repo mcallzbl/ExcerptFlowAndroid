@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter.base
+package com.mcallzbl.excerptflowandroid.base
 
 import android.app.Service
 import android.content.Intent
